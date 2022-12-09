@@ -26,7 +26,7 @@ With this week's lesson I have had a hard time figuring out which classes in HTM
 
 ## Deployed Application
 
-The deployed application can be found at this link: https://stevemoore9595.github.io/Horiseon-Challenge/
+The deployed application can be found at this link: https://stevemoore9595.github.io/Code-Refactor/
 
 ## License
 
